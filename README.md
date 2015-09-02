@@ -1,5 +1,6 @@
 # TuilDemo
 question mark
+
 1.<uses-permission android:name="ANDROID.PERMISSION.INTERNET"/>  is error,can't get internet permisson
 
 <uses-permission android:name="android.permission.INTERNET"/>
