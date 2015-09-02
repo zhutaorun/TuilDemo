@@ -1,4 +1,4 @@
-# TuilDemo
+# TuilDemo 实现了智能回复功能，以及文字交流为主
 question mark
 
 1.<uses-permission android:name="ANDROID.PERMISSION.INTERNET"/>  is error,can't get internet permisson
