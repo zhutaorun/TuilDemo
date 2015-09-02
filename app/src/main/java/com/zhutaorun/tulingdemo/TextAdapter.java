@@ -1,4 +1,4 @@
-package com.jikexueyuan.tulingdemo;
+package com.zhutaorun.tulingdemo;
 
 import android.content.Context;
 import android.view.LayoutInflater;
@@ -7,6 +7,8 @@ import android.view.ViewGroup;
 import android.widget.BaseAdapter;
 import android.widget.RelativeLayout;
 import android.widget.TextView;
+
+import com.zhutaorun.tulingdemo.R;
 
 import java.util.List;
 
